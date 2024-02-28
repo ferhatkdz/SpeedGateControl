@@ -1,0 +1,19 @@
+*.Cam
+*.PrjPcbStructure
+*.Harness
+*.rar
+*.zip
+*.stp
+*.step
+._*
+
+*.DsnWrk
+
+History/*
+Outputs/*
+Project Outputs*/*
+Project Logs*/*
+__Previews/*
+DOC/*
+PRODUCTION*/*
+Archive/*
